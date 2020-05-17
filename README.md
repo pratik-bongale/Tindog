@@ -7,10 +7,10 @@ Description:
 - It is a single page application built using HTML, CSS and Bootstrap.
 - The web page has a `Home` section, `Download` section and a `Pricing` section.
 - It features:
-..* An awesome responsive user interface
-..* A navigation bar with links to different sections in the web page
-..* A carousal with user testimonials
-..* Aesthetic color pallete, button and icons.
+  - An awesome responsive user interface
+  - A navigation bar with links to different sections in the web page
+  - A carousal with user testimonials
+  - Aesthetic color pallete, button and icons.
 - Published on Github Pages: [Tindog](https://pratik-bongale.github.io/Tindog/)
 
 Why did I make this project?
