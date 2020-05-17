@@ -3,7 +3,7 @@ Tindog
 
 Description:
 ------------
-- Tindog is a imitation of tinder for dogs. 
+- Tindog is an imitation of tinder for dogs. 
 - It is a single page application built using HTML, CSS and Bootstrap.
 - The web page has a `Home` section, `Download` section and a `Pricing` section.
 - It features:
