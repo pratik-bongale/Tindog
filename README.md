@@ -15,7 +15,7 @@ Description:
 
 Why did I make this project?
 ----------------------------
-- This is my first responsive website!
+- This is my first responsive website! I always wanted to learn and build a fully-responsive website.
 - Bootstrap makes it very easy to create fluid containers, beautify existing HTML elements and add animations.
 
 What is this?
